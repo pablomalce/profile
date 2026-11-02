@@ -4,7 +4,7 @@ A one-page personal profile site in plain HTML and CSS, published with GitHub Pa
 
 ## Context
 
-Built in July 2020 (single commit, 2020-07-08) as one of my first web pages, while I was getting ready for the Le Wagon web development bootcamp. The profile photo is served from Le Wagon's Cloudinary account, which places it in my Le Wagon prep work. At the time I was moving into software from tourism and accounting, which is what the page says.
+Built in July 2020 (single commit, 2020-07-08) as one of my first web pages, around the time I started the Le Wagon web development bootcamp (the profile photo is hosted on Le Wagon's Cloudinary). At the time I was moving into software from tourism and accounting, which is what the page says.
 
 ## What it does
 
