@@ -4,13 +4,13 @@ A one-page personal profile site in plain HTML and CSS, published with GitHub Pa
 
 ## Context
 
-Built in July 2020 (single commit, 2020-07-08) as one of my first web pages, while I was getting ready for the Le Wagon web development bootcamp. The profile photo is served from Le Wagon's Cloudinary account, and "personal profile page" was a standard exercise in that program. At the time I was moving into software from tourism and accounting, which is what the page says.
+Built in July 2020 (single commit, 2020-07-08) as one of my first web pages, while I was getting ready for the Le Wagon web development bootcamp. The profile photo is served from Le Wagon's Cloudinary account, which places it in my Le Wagon prep work. At the time I was moving into software from tourism and accounting, which is what the page says.
 
 ## What it does
 
 - A short introduction in Spanish: greeting, photo, a few lines about my background and interests.
 - A "Sobre mi" (About me) button and icon links to GitHub, Instagram and Facebook.
-- Basic responsive behaviour: the card narrows to 700, 500 or 300 px with media queries at 960, 720 and 540 px.
+- Basic responsive behaviour: a fixed 700 px card that narrows to 500 px below 720 px and to 300 px below 540 px.
 
 ## Stack
 
